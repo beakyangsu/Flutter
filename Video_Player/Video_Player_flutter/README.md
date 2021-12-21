@@ -1,4 +1,4 @@
-# video_player_flutter
+# video_player_flutter_Basic
 
 https://pub.dev/packages/video_player
 
