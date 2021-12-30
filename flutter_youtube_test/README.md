@@ -6,4 +6,4 @@ Youtube api를 활용하여 flutter로 youtube를 구현해봤습니다.
 
 ### Demo
 
-<img src="https://user-images.githubusercontent.com/12162598/147714140-430d1562-8903-488a-b3f9-e154d5af5fb9.mp4">
+<img src="https://user-images.githubusercontent.com/12162598/147715045-812239b0-3622-4fe1-983d-ded8105a6744.gif">
