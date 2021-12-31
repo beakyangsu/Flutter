@@ -8,8 +8,8 @@ Compare Gradient android vs flutter
  
  
  ### Conclusion
- Flutter의 gradient깨짐이 Andoroid보다 적지만 깨짐이 많이 발생한다
- gradient효과를 주고싶다면 GUI가 답이다.
+ Flutter의 gradient깨짐이 Andoroid보다 적지만 깨짐이 발생한다
+ 
  
  Flutter has less fractions with gradient than Andorid, but still has fractions.
- If you need gradient effect, you'd better use GUI.
+
